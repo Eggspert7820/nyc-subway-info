@@ -8,7 +8,7 @@ header {
     margin: 20px 40px;
     padding: 20px;
 }
-section {
+section.input-info {
     background: white;
     color: grey;
     padding: 20px;
